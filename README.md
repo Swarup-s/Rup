@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/3bc51c0e17c1c310173a5-7e51624887e0d3a9d4.jpg](https://i.ibb.co/qpxpGmC/image.jpg)" alt="AtoZfilmss-Auto-filter">
+  <img src="https://i.ibb.co/qpxpGmC/image.jpg" alt="AtoZfilmss-Auto-filter">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
